@@ -2,7 +2,7 @@
   "name": "project65",
   "version": "0.1.0",
   "private": true,
-  "homescreen":"http://sarang-1.github.io/text-analyzer-1",
+  "homescreen":"https://sarang-1.github.io/text-analyzer-1/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
